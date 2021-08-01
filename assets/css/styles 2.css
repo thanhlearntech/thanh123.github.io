@@ -1321,7 +1321,7 @@ input{
     #d4c8a0,
     hsl(34, 38%, 43%)
   );
-  background-image: url(/assets/img/Testimonial/background_img-schnitz_250x200.jpg);
+  background-image: url(assets/img/Testimonial/background_img-schnitz_250x200.jpg);
 }
 
 .card-front__tp--ski {
@@ -1330,7 +1330,7 @@ input{
     hsl(0, 2%, 49%),
     hsl(9, 11%, 21%)
   );
-  background-image: url(/assets/img/Testimonial/background_img-masizzim_2_250x200.jpg);
+  background-image: url(assets/img/Testimonial/background_img-masizzim_2_250x200.jpg);
 }
 
 .card-front__tp--beach {
@@ -1339,7 +1339,7 @@ input{
     #fb9b88,
     #f86647
   );
-  background-image: url(/assets/img/Testimonial/background_img-Mcdonald_250x200.jpg);
+  background-image: url(assets/img/Testimonial/background_img-Mcdonald_250x200.jpg);
 }
 
 .card-front__tp--camping {
@@ -1348,7 +1348,7 @@ input{
     #93b3c2,
     #14546d
   );
-  background-image: url(/assets/img/Testimonial/background_img-BAA_250x200.jpg);
+  background-image: url(assets/img/Testimonial/background_img-BAA_250x200.jpg);
 }
 
 /* Front card's bottom section */
